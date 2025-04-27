@@ -1,4 +1,6 @@
-EX-21-POINTERS
+# Name : LOKESH S
+# Register no : 212224240079
+# EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
